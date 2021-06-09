@@ -17,6 +17,6 @@ Zielgruppe dieses Projektes sind alle die Menschen, die sich gerade in Ausbildun
 ## Kanzleimanagement.io - Teilen von Wissen
 
 
-[Über mich](README)
+[Über mich](README.md)
 
 
