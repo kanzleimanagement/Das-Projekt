@@ -1,17 +1,14 @@
-### Hi there 👋
+Impressum
+Angaben gemäß §5 TMG
 
-<!--
+Gudrun Mildner
+Echoer Straße 24c
+42369 Wuppertal
+gudrun.mildner@gmx.de
 
--->
 
+HAFTUNG FÜR INHALTE    Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
 
-- 🔭 I’m currently working on - improving and developing management in a midsized tax consulting company in Germany.
-- 🌱 I’m currently learning - to become a church musician in my free time. Learning to play the organ feels like boiling your brain.
-- 👯 I’m looking to collaborate on developing concepts, talking about them and of course having fun with young professionals from tax consulting in Germany.
-- 🤔 I’m looking for help with making this github look smarter.
-- 💬 Ask me about socialogical concepts of human behaviour in organizations - I can talk about it all night long.
-- 📫 How to reach me: info@kanzleimanagement.io
-- 😄 Pronouns: she/her...
-- ⚡ Fun fact: I never stopped being a girl from the northern part of Germany. My best loved breakfast ist Karrysild (Hering from Denmark in Curry Sauce) with black bread and a coffee.
+HAFTUNG FÜR LINKS    Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
 
-For serious information you can visit my profile on https://www.linkedin.com/in/gudrun-mildner/
+URHEBERRECHT    Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
