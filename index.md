@@ -28,7 +28,7 @@ Dieses ist der Start, quasi das Baustellenschild "Projekt im Aufbau" 🚧. In de
 
 Wer Interesse daran hat, zu erfahren, wann was genau startet, kann sich gerne per Email ✉️ unter info@kanzleimanagement.io melden. Selbstverständlich werden alle Daten vertraulich behandelt. Des weiteren werden die Medien und Inhalte dieses Projektes integraler Bestandteil im nächsten Wintersemester an der Hochschule Düsseldorf im Dualen Studiengang für Steuerfachangestellte sein im Rahmen des Softskill-Moduls "Steuerberatung 4.0".
 
-Abschließend sein an dieser Stelle noch einmal darauf hingewiesen, dass dies ein privates Projekt ist 👵, das keinerlei kommerziellen Zwecken folgt. Damit wird es auch einen Verhaltenskodex geben für alle Beteiligte. Meine Horrorvorstellung: Dies wird die nächste Recruiting-Plattform für Kanzleien. Das gilt es zu verhindern! 💂‍♀️
+Abschließend sei an dieser Stelle noch einmal darauf hingewiesen, dass dies ein privates Projekt ist 👵, das keinerlei kommerziellen Zwecken folgt. Damit wird es auch einen Verhaltenskodex geben für alle Beteiligte. Meine Horrorvorstellung: Dies wird die nächste Recruiting-Plattform für Kanzleien. Das gilt es zu verhindern! 💂‍♀️
 
 
 [Über mich](README.md)
