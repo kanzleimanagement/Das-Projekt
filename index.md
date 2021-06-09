@@ -31,6 +31,5 @@ Wer Interesse daran hat, zu erfahren, wann was genau startet, kann sich gerne pe
 Abschließend sei an dieser Stelle noch einmal darauf hingewiesen, dass dies ein privates Projekt ist 👵, das keinerlei kommerziellen Zwecken folgt. Damit wird es auch einen Verhaltenskodex geben für alle Beteiligte. Meine Horrorvorstellung: Dies wird die nächste Recruiting-Plattform für Kanzleien. Das gilt es zu verhindern! 💂‍♀️
 
 
-[Über mich](https://github.com/kanzleimanagement)
-
+[Über mich] (https://github.com/kanzleimanagement#hi-there-)
 
