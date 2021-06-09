@@ -50,4 +50,4 @@ Abschließend sei an dieser Stelle noch einmal darauf hingewiesen, dass dies ein
 For serious information you can visit my profile on https://www.linkedin.com/in/gudrun-mildner/
 
 
-[Imprint](kanzleimanagement/Das-Projekt/README.md)
+[Imprint](https://github.com/kanzleimanagement/Das-Projekt/blob/main/README.md)
