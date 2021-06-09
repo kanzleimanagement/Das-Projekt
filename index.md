@@ -7,6 +7,6 @@ Neue Zeiten erfordern das Teilen von Wissen, das voneinander Lernen und das mite
 
 ## Kanzleimanagement.io
 
-[Über mich](README.MD)
+[Über mich](README.md)
 
 
